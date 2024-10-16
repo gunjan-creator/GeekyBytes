@@ -29,13 +29,13 @@
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/tech-blog.git
+    git clone https://github.com/yourusername/geekybytes.git
     ```
 
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd tech-blog
+    cd geekybytes
     ```
 
 3. **Install Backend Dependencies**
@@ -109,4 +109,4 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 ## Contact
 
-If you have any questions or feedback, please reach out to [partikoffical@gmail.com](mailto:partikoffical@gmail.com).
+If you have any questions or feedback, please reach out to [ansulluharuka21@gmail.com](mailto:ansulluharuka21@gmail.com).
