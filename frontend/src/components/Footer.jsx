@@ -22,7 +22,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="py-2 pb-6 text-center text-white bg-black text-sm">
-        All rights reserved @Ansul 2024
+        All rights reserved @Gunjan Singla 2025
       </p>
     </>
   );
